@@ -8,10 +8,11 @@ Simple anime website that implement MVC (Model View Controller) using PHP.
 
 You can login with this account or make your own account <i>(no verification by email)</i>
 <br>
+
 username : admin <br>
 password : admin
 
-## What I use
+### What I use
 
 <ol>
   <li>PHP</li>
@@ -20,6 +21,6 @@ password : admin
   <li>Font Awesome</li>
 </ol>
 
-## Reference
+### Reference
 
 <a href="https://www.youtube.com/playlist?list=PLFIM0718LjIVEh_d-h5wAjsdv2W4SAtkx">Youtube Web Progamming UNPAS</a>
