@@ -70,9 +70,6 @@ class Anime extends BaseController
       header('Location:' . BASEURL . '/auth/login');
     }
 
-    var_dump($_GET['url']);
-    die;
-
     if ($this->model('AnimeModel')->getTitle($_POST) > 0) {
       Flasher::setFlash('Title is already <b>taken</b>', 'danger');
       header('Location:' . BASEURL . '/anime/add');
