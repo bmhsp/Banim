@@ -4,18 +4,18 @@ Simple anime website that implement MVC (Model View Controller) using PHP.
 <br>
 <b>Link :</b> <a href="http://banim.42web.io" target="_blank">http://banim.42web.io</a>
 
-## How to Access Admin Role
+### How to access admin role
 
 You can login with this account or make your own account <i>(no verification by email)</i>
 <br>
 username : admin <br>
 password : admin
 
-## What I Use
+## What I use
 
 <ol>
-  <li>Bootstap 5</li>
   <li>PHP</li>
+  <li>Bootstrap 5</li>
   <li>JQuery</li>
   <li>Font Awesome</li>
 </ol>
