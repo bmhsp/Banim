@@ -1,6 +1,6 @@
 # BANIM
 
-Simple anime website that implement MVC (Model View Controller) using PHP.
+Simple website that implement MVC (Model View Controller) using PHP.
 <br>
 <b>Link :</b> <a href="http://banim.42web.io" target="_blank">http://banim.42web.io</a>
 
